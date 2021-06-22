@@ -1,0 +1,17 @@
+{
+  "item.elemental.ruby": "Ruby",
+  "item.elemental.ruby_sword": "Ruby Sword",
+  "item.elemental.ruby_pickaxe": "Ruby Pickaxe",
+  "item.elemental.ruby_axe": "Ruby Axe",
+  "item.elemental.ruby_shovel": "Ruby Shovel",
+  "item.elemental.ruby_hoe": "Ruby Hoe",
+  "item.elemental.ruby_helmet": "Ruby Helmet",
+  "item.elemental.ruby_chestplate": "Ruby Chestplate",
+  "item.elemental.ruby_leggings": "Ruby Leggings",
+  "item.elemental.ruby_boots": "Ruby Boots",
+  "block.elemental.ruby_block": "Ruby Block",
+  "block.elemental.ruby_ore": "Ruby Ore",
+  "block.elemental.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "itemGroup.elemental.blocksanditems": "Elemental Items & Blocks",
+  "itemGroup.elemental.toolsandcombat": "Elemental Tools & Combat"
+}
